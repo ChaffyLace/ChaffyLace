@@ -57,8 +57,6 @@ Passionné par l'architecture logicielle, le développement système et la créa
   - Contrôle des processus (fork, wait), manipulation des signaux et gestion des fichiers.
   - Gestion stricte de la mémoire avec traque et correction des fuites via **Valgrind**.
 
----
-
 ### 📈 Mes Statistiques GitHub
 
 <p align="center">
