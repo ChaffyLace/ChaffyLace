@@ -8,8 +8,8 @@ Passionné par l'architecture logicielle, le développement système et la créa
 ### 💻 À propos de moi
 
 - 📍 **Localisation :** France
-- ✉️ **Contact :** [MAIL](mailto:abdelmouridelmrabit07@gmail.com)
-- 💼 **LinkedIn :** [Mon Profil Professionnel]([https://linkedin.com/in/votre-nom](https://www.linkedin.com/in/abdel-mourid-el-mrabit-a260a93b0/)
+- ✉️ **Mail :** (mailto:abdelmouridelmrabit07@gmail.com)
+- 💼 **LinkedIn :** ([https://linkedin.com/in/votre-nom](https://www.linkedin.com/in/abdel-mourid-el-mrabit-a260a93b0/)
 
 ---
 
